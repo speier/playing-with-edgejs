@@ -1,0 +1,12 @@
+{
+  "name": "playing-with-edgejs",
+  "version": "0.1.0",
+  "description": "Playing with edge.js",
+  "author": "Kalman Speier",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "edge": "~0.7.0"
+  }
+}
